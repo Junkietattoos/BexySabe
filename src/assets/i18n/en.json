@@ -1,0 +1,88 @@
+{
+  "LANGUAGE": {
+    "GERMAN": "Deutsch",
+    "ENGLISH": "English"
+  },
+
+    "FOOTER": {
+      "COPYRIGHT":{
+          "LOCATION": "  Blank Tattoostudio",
+          "PHONE": "051218754455"
+      },
+      "CONTACT": {
+          "STREET":"Ottostraße 7",
+          "PLACE": "31137 Hildesheim",
+          "COUNTRY": "Germany",
+          "EMAIL": "junkietattoos@gmail.com"
+      },
+      "IMPRINT":{
+          "TITLE_IMPRINT": "Imprint",
+          "TITLE_DATA": "Data protection"
+      },
+      "INFO":{
+          "OPENING": "Opening hours",
+          "APPOINTMENTS": "Monday - Tuesday 12:00 - 18:00"
+      }
+  },
+
+  "HOME": {
+      "HELLO": "Hey",
+      "ALIAS": "Letterings, Comicstyle, Fuckedup and more.",
+      "DO": "Tell me what you're up for, we'll get it done!",
+      "LINK": "To check out my references, go to Instagram:",
+      "INSTA":" Junkie.Tattoos",
+      "APPOINTMENT": "Fancy an appointment ? Click here to request an appointment:",
+      "BUTTON": "Appointment request"    
+  },
+  "IMPRINT": {
+      "TITLE": "Imprint",
+      "NAME": "Lukas Jakubczik",
+      "APPOINTMENT": "Appointment request"
+  },
+  "COPYRIGHT": {
+    "TITLE": "Data protection",
+    "GENERAL_TITLE": "Basics",
+    "GENERAL_1": "This privacy policy is intended to inform the users of this website about the nature, scope and purpose of the collection and use of personal data by the website operator Lucas Jakubczik.",
+    "GENERAL_2": "The website operator takes your privacy very seriously and treats your personal data confidentially and in accordance with the statutory provisions. Since new technologies and the constant further development of this website may result in changes to this data protection declaration, we recommend that you read through the data protection declaration again at regular intervals.",
+    "GENERAL_3": "Definitions of the terms used (e.g. 'personal data' or 'processing') can be found in Art. 4 GDPR.",
+    "USAGE_TITLE": "1. Use of personal data",
+    "USAGE_1": "We collect personal data only if they are deliberately provided by you. This data is not stored in a database. For example, after sending an appointment request, all entered data will be sent to us by e-mail. These serve as a pure source of information and are not processed further.",
+    "USAGE_2": "You have the right to withdraw your consent at any time. Data will only be passed on to third parties without your consent if we are legally obliged to do so.",
+    "COOKIES_TITLE": "2. Usage of Cookies",
+    "COOKIES_1": "Cookies are records that are sent from the web server to the user's web browser and stored there for later retrieval. The collection of cookies can be influenced if your browser is set in the way. This leads to the risk that the website will not be operable or only partially operable.",
+    "COOKIES_2": "Our cookies do not contain any personal information. A combination with any personal data provided by you does not take place.",
+    "INFO_TITLE": "3. Right of information",
+    "INFO_1": "You have the right to obtain the data stored about you at any time. This includes reasons for collection, processing, as well as recipients and origin of your data. You can obtain this by sending a request to the mentioned e-mail address or telephone number.",
+    "INFO_2": "This privacy policy applies exclusively to this website. We assume no liability for linked addresses (e.g. Instagram).",
+    "ABOUT_US_TITLE": "4. About Us",
+    "ABOUT_US_1": "This privacy policy applies to Junkietattoos. If you have any questions about our privacy policy, please contact us by email or phone number."
+},
+"CONTACT": {
+    "BACK": "Back to previous Page",
+    "APPOINTMENT_REQUEST": "Appointment Request",
+    "APPOINTMENT_DETAILS": "If you would like an appointment, please fill out this form completely. This will help me to answer your request promptly and accurately.",
+    "PRONOUNS": "Pronouns",
+    "FIRST_NAME": "First name*",
+    "LAST_NAME": "Last name*",
+    "EMAIL": "E-Mail*",
+    "INSTAGRAM": "Instagram*",
+    "PHONE": "Phone*",
+    "DESCRIPTION": "Description / Placement / Approxiamete Size*",
+    "BODYPARTS": "Bodyparts*",
+    "DESIGNTYPE": "Designtype*",
+    "PREFERRED_DAY": "Preferred days*",
+    "PREFERRED_TIME": "Preferred time*",
+    "MORE_INFO": "More Info about the Project",
+    "RECURRING_CUSTOMER": "Recurring customer?", 
+    "DESIGN": "If so: Please specify design",
+    "AGREE_1": "I hereby agree to the following conditions:*",
+    "AGREE_2": "I am over 18 years old.",
+    "AGREE_3": "I am aware that I will lose any claims to prepayment if I cancel the chosen appointment later than 48 hours before the start.",
+    "AGREE_4": "I agree to wear the currently required mask during the appointment.",
+    "AGREE_5": "I am adequately vaccinated at the time of the appointment.",
+    "SEND": "Submit request",
+    "REQUIRED": "All entries with an (*) are mandatory.",
+    "SUCCESS": "Email has been sent!",
+    "ERROR": "Email coudlnt be sent. Please try again later or contact us"
+}
+}

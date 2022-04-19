@@ -1,0 +1,64 @@
+
+a {
+    padding-bottom: 0;
+     padding-top: 1.875rem;
+     padding-left: 1.875rem;
+     padding-right: 1.875rem;
+    width: 100%;
+    color:black;
+    &.shop  {
+        padding-left: 0 !important;
+    }
+}
+a:link{
+    color: black;
+}
+a:hover{
+    color: black;
+    text-decoration: underline;
+}
+.language{
+    display: inline-flex;
+    align-items: baseline;
+    text-align: end;
+    margin-right: 24px;
+
+    button{
+        border: none;
+        background: none;
+        &:hover{
+            text-decoration: underline;
+        }
+        &:focus{
+            outline:none;
+        }
+    }
+}
+
+.logo{
+    align-items:flex-start;
+    margin-left:24px;
+    font-size: 2rem;
+    font-weight: bold;
+    padding-top: 0.5rem!important;
+    padding-left: 0;
+}
+
+
+header{
+    display: flex;
+    max-height: 24vh;
+    position: fixed;
+    background-color:white;
+    width: 100%;
+    z-index: 10;
+}
+.insta{
+    width: 1.5rem;
+}
+.image{
+    width: 5rem;
+}
+.shop {
+    width: 2rem;
+}

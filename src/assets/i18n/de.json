@@ -1,0 +1,88 @@
+{
+    "LANGUAGE": {
+        "GERMAN": "Deutsch",
+        "ENGLISH": "English"
+    },
+    "FOOTER": {
+        "COPYRIGHT": {
+            "LOCATION": "  Blank Tattoostudio",
+            "PHONE": "Tel: 05121/8754455"
+        },
+        "CONTACT": {
+            "STREET": "Ottostraße 7",
+            "PLACE": "31137 Hildesheim",
+            "COUNTRY": "Deutschland",
+            "EMAIL": "junkietattoos@gmail.com",
+            "PHONE": "Tel: 05121/8754455"
+        },
+        "IMPRINT": {
+            "TITLE_IMPRINT": "Impressum",
+            "TITLE_DATA": "Datenschutz"
+        },
+        "INFO": {
+            "OPENING": "Öffnungszeiten",
+            "APPOINTMENTS": "Dienstag - Samstag 12-18 Uhr"
+        }
+    },
+    "HOME": {
+        "HELLO": "Moini",
+        "ALIAS": "Letterings, Comicstyle, Abgefucktes und mehr.",
+        "DO": "Sag mir worauf du Bock hast, wir kriegen es hin.",
+        "LINK": "Für aktuelle Arbeiten guckst du am besten auf Instagram:",
+        "INSTA":"Junkie.Tattoos",
+        "APPOINTMENT": "Bock aufn Termin? Hier gehts zur Terminanfrage:",
+        "BUTTON": "Terminanfrage"
+    },
+    "IMPRINT": {
+        "TITLE": "Impressum",
+        "NAME": "Lukas Jakubczik",
+        "APPOINTMENT": "Terminanfrage"
+    },
+    "COPYRIGHT": {
+        "TITLE": "Datenschutz",
+        "GENERAL_TITLE": "Grundlegendes",
+        "GENERAL_1": "Diese Datenschutzerklärung soll die Nutzer dieser Website über die Art, den Umfang und den Zweck der Erhebung und Verwendung personenbezogener Daten durch den Websitebetreiber Lucas Jakubczik informieren.",
+        "GENERAL_2": "Der Websitebetreiber nimmt Ihren Datenschutz sehr ernst und behandelt Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Vorschriften. Da durch neue Technologien und die ständige Weiterentwicklung dieser Webseite Änderungen an dieser Datenschutzerklärung vorgenommen werden können, empfehlen wir Ihnen sich die Datenschutzerklärung in regelmäßigen Abständen wieder durchzulesen.",
+        "GENERAL_3": "Definitionen der verwendeten Begriffe (z.B. “personenbezogene Daten” oder “Verarbeitung”) finden Sie in Art. 4 DSGVO.",
+        "USAGE_TITLE": "1. Verwendung personenbezogener Daten",
+        "USAGE_1": "Wir sammeln personenbezogene Daten nur, wenn sie bewusst von Ihnen bereitgestellt werden. Diese Daten werden nicht in einer Datenbank gespeichert. Zum Beispiel werden nach Absenden einer Terminanfrage alle Eingetragenen Daten per E-Mail an uns gesendet. Diese dienen als reine Informationsquelle und werden nicht weiterverarbeitet.",
+        "USAGE_2": "Sie haben jederzeit ein Widerrufsrecht hinsichtlich einer erteilten Einwilligung. Eine Weitergabe der Daten an Dritte erfolgt ohne Ihre Einwilligung nur dann, wenn wir hierzu gesetzlich verpflichtet sind.",
+        "COOKIES_TITLE": "2. Verwendung von Cookies",
+        "COOKIES_1": "Cookies sind Datensätze, die vom Webserver an den Webbrowser des Nutzers gesandt und dort für einen späteren Abruf gespeichert werden. Das Sammeln von Cookies kann beeinflusst werden, wenn Ihren Browser in der Weise einstellen. Dies führt zur Gefahr das die Website nicht oder nur zum Teil bedienbar wird. Wir verwenden nur native Browser Cookies, welche zum Speichern von ",
+        "COOKIES_2": "Unsere Cookies enthalten keine personenbezogenen Informationen. Eine Zusammenführung mit etwaigen von Ihnen zur Verfügung gestellten personenbezogenen Daten erfolgt nicht.",
+        "INFO_TITLE": "3. Auskunftsrecht",
+        "INFO_1": "Sie haben das Recht, die zu Ihrer Person gespeicherten Daten jederzeit zu erhalten. Dazu zählen Gründe des Erhebens, Verarbeitens, sowie Empfänger und Ursprung Ihrer Daten. Diese erlangen Sie per Anfrage an genannte E-Mail Adresse oder Telefonnummer.",
+        "INFO_2": "Diese Datenschutzerklärung gilt ausschließlich für diese Website. Für verlinkte Adressen (z.B. Instagram) übernehmen wir keine Gewähr.",
+        "ABOUT_US_TITLE": "4. Über uns",
+        "ABOUT_US_1": "Diese Datenschutzerklärung bezieht sich auf Junkietattoos. Bei Fragen zu unserer Datenschutzerklärung wenden Sie sich per E-Mail oder Telefonnummer an uns."
+    },
+    "CONTACT": {
+        "BACK": "Zurück zur vorherigen Seite",
+        "APPOINTMENT_REQUEST": "Buchungsanfrage",
+        "APPOINTMENT_INFO":"Um eine unverbindliche Tattooanfrage zu stellen, füll bitte dieses Formular aus. Es Hilft mir deine Fragen gezielt und schnell zu beantworten.",
+        "APPOINTMENT_DETAILS": "Wenn du einen Termin möchtest, füll bitte dieses Formular vollständig aus. Das Hilft mir deine Anfrage zeitnah und präziese zu beantworten.",
+        "PRONOUNS": "Pronomen",
+        "FIRST_NAME": "Vorname*",
+        "LAST_NAME": "Nachname*",
+        "EMAIL": "E-Mail*",
+        "INSTAGRAM": "Instagram*",
+        "PHONE": "Telefon*",
+        "DESCRIPTION": "Beschreibung / Platzierung / Ungefähre Größe*",
+        "BODYPARTS": "Körperteile*",
+        "DESIGNTYPE": "Designtyp*",
+        "PREFERRED_DAY": "Präferierte Tage*",
+        "PREFERRED_TIME": "Präferierte Tageszeit*",
+        "MORE_INFO": "Weitere Angaben zum Projekt",
+        "RECURRING_CUSTOMER": "Hab ich dich schonmal tätowiert?",
+        "DESIGN": " Falls ja, was gabs?",
+        "AGREE_1": "Hiermit stimme ich den folgenden Bedingungen zu:*",
+        "AGREE_2": "Ich bin über 18 Jahre alt.",
+        "AGREE_3": "Ich bin mir bewusst, eventuelle Ansprüche auf Vorkassen-Zahlungen zu verlieren, sofern ich den gewählten Termin später als 48 Stunden vor Beginn absage.",
+        "AGREE_4": "Ich bin damit einverstanden, während des Termins die aktuell erforderliche Maske zu tragen.",
+        "AGREE_5": "Ich bin zum Zeitpunkt des Termins ausreichend geimpft.",
+        "SEND": "Anfrage abschicken",
+        "REQUIRED": "Alle Angaben mit einem (*) sind verpflichtend.",
+        "SUCCESS": "Email wurde erfolgreich versandt!",
+        "ERROR": "Email konnte nicht versendet werden, versuchen Sie es später erneut oder kontaktieren Sie uns"
+    }
+}

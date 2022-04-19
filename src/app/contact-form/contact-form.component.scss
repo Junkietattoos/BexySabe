@@ -1,0 +1,86 @@
+.full{
+    width:100%;
+}
+
+label {
+    font-weight: bold;
+    margin-bottom: 0;
+}
+.margin-left{
+    margin-left: 16px;
+}
+
+.returningCustomer{
+    width: 100%;
+    resize: none;
+}
+
+.not-allowed {
+    cursor:not-allowed;
+}
+
+.disabled {
+    opacity: 0.5 !important;
+    pointer-events: none;
+}
+.required {
+    font-size: 1rem;
+    opacity: 0.7;
+    color: red;
+}
+.agree{
+    font-weight: bold;
+}
+.disableButton {
+    opacity: 0.5 !important;
+    pointer-events: none;
+}
+.alert {
+    position: relative;
+    padding: 0.75rem 1.25rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+    margin-left: 16px;
+    width: 100%;
+    margin-right: 32px;
+    margin-top: 16px;
+    &.success {
+    background: mediumspringgreen;
+    color: green;
+    }
+    &.error{
+    background: red;
+    color: darkred;
+    }
+}
+    .arrow {
+        font-size: 2rem;
+        margin-left: 14px;
+    }
+    .back {
+        font-weight: bold;
+    }
+    .logo{
+        width: 12rem;
+    }
+.row {
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+.send-appointment{
+    display: grid;
+}
+@media only screen and (min-width: 600px) {
+    .row{
+    padding-left: 5rem;
+    padding-right: 6rem;
+
+}
+}
+.info {
+    text-align: center;
+}
+.headline {
+    margin-top: 13vh;
+}
