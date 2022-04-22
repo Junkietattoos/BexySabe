@@ -11,7 +11,7 @@ import { FormGroup, FormBuilder, FormArray, FormControl, Validators, NgForm} fro
 export class ContactFormComponent implements OnInit {
   
   _url = 'https://lilcolorink-prod-u4nlk5tfvq-ew.a.run.app/lilcolorink/receiveNewContact/';
-  _devurl = 'https://backend-dev-u7nowymugq-ew.a.run.app/junkietattoos/receiveNewContact/';
+  _devurl = 'https://backend-dev-u7nowymugq-ew.a.run.app/bexysabe/receiveNewContact/';
   myForm: FormGroup;
   checked = false;
   checkedParts = false;
@@ -81,7 +81,7 @@ export class ContactFormComponent implements OnInit {
 
   ngOnInit() {
     this.myForm = this.fb.group({
-      studio: new FormControl('JunkieTattoos', []),
+      studio: new FormControl('BexySabe', []),
       pronouns: new FormControl(''),
       firstName: new FormControl('', [Validators.required]),
       lastName: new FormControl('', [Validators.required]),
