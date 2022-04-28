@@ -9,7 +9,6 @@ import { CopyrightComponent } from './copyright/copyright.component';
 import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
 import { ImprintComponent } from './imprint/imprint.component';
-import { GoogleMapsModule } from '@angular/google-maps';
 import { LanguageComponent } from './language/language.component';
 import { TranslateLoader, TranslateModule } from '@ngx-translate/core';
 import { TranslateHttpLoader } from '@ngx-translate/http-loader';
@@ -38,7 +37,6 @@ export function HttpLoaderFactory(http: HttpClient) {
     AppRoutingModule,
     ReactiveFormsModule,
     HttpClientModule,
-    GoogleMapsModule,
     RouterModule,
     HttpClientModule,
     TranslateModule.forRoot({
