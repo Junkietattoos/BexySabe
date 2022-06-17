@@ -52,6 +52,7 @@ header{
     background-color:white;
     width: 100%;
     z-index: 10;
+    background: transparent;
 }
 .insta{
     width: 1.5rem;
@@ -61,4 +62,12 @@ header{
 }
 .shop {
     width: 2rem;
+}
+.back {
+    font-size: 24px;
+    color: #fee2ee;
+}
+.arrow {
+    color: #fee2ee;
+
 }

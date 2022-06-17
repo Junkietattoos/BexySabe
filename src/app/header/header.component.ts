@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Router } from '@angular/router';
 import { TranslateService } from '@ngx-translate/core';
 
 @Component({
@@ -8,7 +9,7 @@ import { TranslateService } from '@ngx-translate/core';
 })
 export class HeaderComponent implements OnInit {
 
-  constructor(private readonly translate: TranslateService) { }
+  constructor(private readonly translate: TranslateService, private router: Router) { }
 
   ngOnInit(): void {
   }
@@ -17,4 +18,5 @@ export class HeaderComponent implements OnInit {
   useLanguage(language: string): void {
     this.translate.use(language);
 }
+
 }
