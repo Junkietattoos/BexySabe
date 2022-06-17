@@ -118,7 +118,7 @@
             </div>
           </div>
           <div [class.not-allowed]="!myForm?.valid || !checked || !checkedParts || !checkedDays" class="send-appointment">
-            <button class="btn btn-dark margin-left" type="submit"
+            <button class="btn btn-secondary margin-left" type="submit"
               [class.disabled]="!myForm?.valid || !checked || !checkedParts || !checkedDays"
               [class.disableButton]="disableButton"> {{'CONTACT.SEND' | translate}}</button>
             <span class="required margin-left"> {{'CONTACT.REQUIRED' | translate}}</span>

@@ -84,3 +84,14 @@ label {
 .headline {
     margin-top: 13vh;
 }
+body {
+    background-color: transparent;
+    color: var(--bexy);
+}
+.btn-secondary {
+    color:var(--bexy) !important;
+}
+
+.text-muted{
+    color: var(--bexy) !important; 
+}
