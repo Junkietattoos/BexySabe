@@ -9,7 +9,7 @@ import { TranslateService } from '@ngx-translate/core';
 })
 export class HeaderComponent implements OnInit {
 
-  constructor(private readonly translate: TranslateService, private router: Router) { }
+  constructor(private readonly translate: TranslateService, public router: Router) { }
 
   ngOnInit(): void {
   }

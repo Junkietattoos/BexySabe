@@ -104,6 +104,13 @@
           </div>
           <div class="col-12">
             <div class="mb-3">
+              <label class="form-label" for="additionalTattooInformation">Sonstige Anmerkung:</label>
+              <textarea id="additionalTattooInformation" type="textarea" formControlName="additionalTattooInformation"
+                class="returningCustomer"> </textarea>
+            </div>
+          </div>
+          <div class="col-12">
+            <div class="mb-3">
               <input id="accepted" type="checkbox" class="item" (click)="checked = true"
                 [disabled]="!myForm?.valid || !checkedParts || !checkedDays">
               <span class="agree">

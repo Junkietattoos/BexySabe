@@ -54,15 +54,6 @@ header{
     z-index: 10;
     background: transparent;
 }
-.insta{
-    width: 1.5rem;
-}
-.image{
-    width: 5rem;
-}
-.shop {
-    width: 2rem;
-}
 .back {
     font-size: 24px;
     color: var(--bexy);;
@@ -70,4 +61,13 @@ header{
 .arrow {
     color: var(--bexy);;
 
+}
+
+@media only screen and (max-width: 405px) {
+    .back {
+        font-size: 1.125rem;
+    }
+     .arrow {
+        font-size: 1.5rem;
+     }
 }

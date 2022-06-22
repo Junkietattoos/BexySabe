@@ -1,5 +1,3 @@
-
-
 .home {
     display: flex;
     flex-direction: column;
@@ -7,43 +5,68 @@
 }
 
 .title {
-    margin-top: 20%;
-    margin-bottom: 10%;
+    margin-top: 8rem;
+    margin-bottom: 4.5rem;
 }
+
 .buttons {
     margin-bottom: 5%;
-    
+
 }
 
 .btns {
     width: 14rem;
     height: 4rem;
     font-size: 26px;
-    color: var(--bexy);;
+    color: var(--bexy);
+    ;
 
 }
+
 .margin {
     margin-right: 10rem;
 
 }
-@media only screen and (max-width: 660px) {
- .margin {
-    margin-top: 3rem;
-    margin-right: 3rem;
- }
- .buttons {
-    text-align: center;
 
- }
- .btns {
-    width: 10rem;
-    height: 3rem;
-    font-size: 18px;
-    color: var(--bexy);;
-    margin-top: 1rem;
+@media only screen and (max-width: 660px) {
+    .margin {
+        margin-top: 3rem;
+        margin-right: 3rem;
     }
-.title {
-    margin-top: 0;
-    margin-bottom: 0;
+
+    .buttons {
+        text-align: center;
+
+    }
+
+  
+    .title {
+        margin-top:6rem;
+        margin-bottom: 3rem;
+    }
+    .btns {
+        width: 10rem;
+        height: 3rem;
+        font-size: 18px;
+        color: var(--bexy);
+        ;
+        margin-top: 1rem;
+    }
+
 }
+
+@media only screen and (max-width: 367px) {
+    .margin {
+        margin-left: 3rem;
+
+    }
+
+}
+
+@media only screen and (min-width: 660px) and (max-width: 999px){
+  
+    .title {
+        margin-top:10rem;
+        margin-bottom: 3rem;
+    }
 }

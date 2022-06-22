@@ -15,9 +15,9 @@ export class HomeComponent implements OnInit {
 
   ngOnInit(): void {
     this.innerWidth = window.innerWidth;
-    if (this.innerWidth > 1000) {
+    if (this.innerWidth >= 1000) {
       this.big = true;
-    } else if (this.innerWidth < 999) {
+    } else if (this.innerWidth < 1000) {
       this.small = true;
       }
   }

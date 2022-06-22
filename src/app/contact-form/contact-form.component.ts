@@ -93,7 +93,8 @@ export class ContactFormComponent implements OnInit {
       preferredDay: this.fb.array([]),
       preferredTime: new FormControl('', [Validators.required]),
       projectInformation: this.fb.array([]),
-      returningCustomer: new FormControl('', [])
+      returningCustomer: new FormControl('', []),
+      additionalTattooInformation: new FormControl('', []),
         });
   }
 
