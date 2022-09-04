@@ -26,8 +26,11 @@ export class HomeComponent implements OnInit {
       window.paypal.Buttons(
         {
           style: {
-            layout: 'horizontal',
-            color: 'black'
+          shape: 'rect',
+          color: 'silver',
+          layout: 'horizontal',
+          label: 'paypal',
+
 
           },
   
